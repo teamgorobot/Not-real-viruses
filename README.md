@@ -9,3 +9,4 @@
 - OPCrasher.exe: OPCrasher.vbs and cmdspam.bat bundeled in exe, __WILL CRASH YOUR PC PARTS AND MAYBE CORRUPT SOMETHING__
 
 ### Every file(__!!except for cmdspam.bat when used for OPCrasher.vbs!!__) can be renamed and all Icons can be changed without something breaking.
+### You can escape every fake Virus(except for cmdspam.bat), but only if the crashing part didn't start!
